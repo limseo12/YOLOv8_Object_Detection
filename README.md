@@ -25,6 +25,7 @@ PPT:
 
 # 두 번째 단계
 
+Public Dataset : https://public.roboflow.com/object-detection (roboflow)
 
 reference
 공식문서 : https://docs.ultralytics.com/modes/export/
