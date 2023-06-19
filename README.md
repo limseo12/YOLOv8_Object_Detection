@@ -32,6 +32,7 @@ YOLOv8n~x성능.ipynb
 
 결과 :
 YOLOv8x 가 대체로 좋게 성능이 좋게 나왔습니다.
+
 PPT:
 ![image](https://github.com/limseo12/YOLOv8_Object_Detection/assets/93918673/18071254-fb00-45bf-ba7b-47ecbd6acaa1)
 ![image](https://github.com/limseo12/YOLOv8_Object_Detection/assets/93918673/8ad30a37-dd94-460b-81af-9685d073b930)
