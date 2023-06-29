@@ -1,4 +1,5 @@
 # YOLOv8_Object_Detection
+블로그로 보기 : https://lim123.tistory.com/133
 기간 : 2023.6.12 ~2023.6.19 (7일)
 
 프로젝트 착수(Initiation) : 
